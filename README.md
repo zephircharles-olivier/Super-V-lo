@@ -4,4 +4,4 @@ Le Super Vélo, comme son nom l’indique, regroupe une série d’amélioration
 
 Vous pouvez trouvez içi le code source, les schémas électroniques, les fichiers Gerbers et les fichiers de conception
 
-Voir le projet sur mon site Web https://tgemaisonneuve.com/wp-admin/post.php?post=1706&action=edit
+Voir le projet sur mon site Web: https://tgemaisonneuve.com/wp-admin/post.php?post=1706&action=edit
